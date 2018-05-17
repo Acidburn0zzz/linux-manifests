@@ -10,7 +10,6 @@
            sync-j="4" />
 
   <project path="kernel" name="linux-kernel" revision="release-4.4" groups="tagged" />
-  <project path="kernel-mainline" name="linux-mainline-kernel" revision="master" groups="tagged" />
   <project path="u-boot" name="linux-u-boot" revision="rockchip-master" groups="tagged" />
   <project path="arm-trusted-firmware" name="arm-trusted-firmware" revision="rockchip" groups="tagged" />
   <project path="rkbin" name="rkbin" />
